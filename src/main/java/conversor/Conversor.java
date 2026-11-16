@@ -1,6 +1,6 @@
 public class Conversor {
     public static double fahrenheitParaCelsius(double f) {
-        return (f - 32) * 9.0 / 5.0;
+        return (f - 32) * 5.0 / 9.0;
     }
 
     public static double celsiusParaFahrenheit(double c) {
